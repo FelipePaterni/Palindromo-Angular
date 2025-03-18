@@ -1,0 +1,13 @@
+<div class="container">
+    <h3 class="my-4">Veja se a palavra é um palindromo</h3>
+    <ngb-alert [type]="alert.type" [dismissible]="false">
+        {{ alert.message }}
+      </ngb-alert>
+    <input [(ngModel)]="texto" (change)="checkPalindromo()" type="text" class="my-4 form-control" />
+    
+
+
+     <img [src]="imgSrc" class=" w-25 m-auto d-block">
+   
+  </div>
+  
