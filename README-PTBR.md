@@ -28,18 +28,18 @@ Esse projeto me ajudou a aprender Angular, a usar atributos, módulos, component
 ## Como Usar
 
 Abra no navegador:
-https://palindromo-angular-nine.vercel.app/
+[palindromo-angular.vercel.app](https://palindromo-angular.vercel.app)
 
 ## ou
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/FelipePaterni/Angular-Calc.git
+     git clone https://github.com/FelipePaterni/Palindromo-Angular.git
    ```
 
 2. Navegue até a pasta do projeto:
    ```bash
-   cd Angular-Calc
+   cd Palindromo-Angular
    ```
 
 3. Instale as dependências:
