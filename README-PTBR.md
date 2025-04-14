@@ -1,55 +1,57 @@
-# Palindrome in Angular
-[README in Portuguese](/README-PTBR.md)  
 
-A simple project to learn how to use the Angular framework. The goal is to check whether a word is a palindrome and display a reaction using images.
+# Palíndromo em Angular
+[English README](/README.md)  
 
-## Technologies Used
+Um projeto simples para aprender a usar o framework Angular. O objetivo é verificar se uma palavra é ou não um palíndromo e mostrar uma reação com imagens. 
+
+## Tecnologias Utilizadas
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Author
+## Autor
+
 - [@FelipePaterni](https://www.github.com/FelipePaterni)
 
-## Learnings
+## Aprendizados
 
-This project helped me learn Angular, how to use attributes, modules, components, forms, and how to handle images.
+Esse projeto me ajudou a aprender Angular, a usar atributos, módulos, componentes, formulários e a manipular imagens.
 
-## Features
+## Funcionalidades
 
-- Check if a word is a palindrome
-- Reverse words
-- Dynamically change images
+- Verificar se é um palíndromo
+- Inverter palavras
+- Alterar dinamicamente imagens
 
 ## Screenshots
 
 ![Screenshot](https://i.imgur.com/qolKDJB.png)
 
-## How to Use
+## Como Usar
 
-Open in browser:
+Abra no navegador:
 https://palindromo-angular-nine.vercel.app/
 
-## or
+## ou
 
-1. Clone the repository:
+1. Clone o repositório:
    ```bash
    git clone https://github.com/FelipePaterni/Angular-Calc.git
    ```
 
-2. Navigate to the project folder:
+2. Navegue até a pasta do projeto:
    ```bash
    cd Angular-Calc
    ```
 
-3. Install the dependencies:
+3. Instale as dependências:
    ```bash
    npm install
    ```
 
-4. Run the project:
+4. Rode o projeto:
    ```bash
    ng s -o
    ```
 
-5. Open in browser:
+5. Abra no navegador:
  http://localhost:4200
-
+    
